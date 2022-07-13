@@ -3,13 +3,15 @@
 By Brittany West; bnwest2
 Summer 2018
 
-### About the Visualization
+### Messaging
+The graph is communicating that higher horse power cars emit large amounts of CO2, which is bad for the environment. 
 
+### Narrative Structure. 
 The chosen hybrid structure is an Interactive Slideshow. It consists of 3 slides where the reader has the ability to look at the full dataset as well as highlight data based on a categorical variable.
 
 The visualization is based on a dataset from the Environment Protection Agency which contains horsepower, CO2 emission and vehicle type information of 4,411 vehicles manufactured in 2015.
 
-### Scenes
+### Visual Structure and Scenes
 
 There are three scenes in the narrative visualization. They follow the same template and layout for visual consistency. 
 - The project title is fixed in place above the visualization container for the duration of the narrative visualization.
@@ -22,7 +24,7 @@ There are three scenes in the narrative visualization. They follow the same temp
 ### Annotations
 
 Annotations are used to highlight a trend in the data, direct the user to further investigate the data, and ask the user to draw a conclusion from the data. The annotations use a consistent template for font size and a bolded style.
-- The annotation in Scene 1 is text positioned inside the visualization container meant to highlight the primary finding of the visualization. "As horsepower increases C02 emissions increase for all vehicle types." When the user clicks the button to transition forward to Scene 2 or Scene 3 the annotation for Scene 1 is cleared.
+- The annotation in Scene 1 is text positioned inside the visualization container meant to highlight the primary finding of the visualization. "CO2 Emmisions increase for all vehicle types as horsepower increases." When the user clicks the button to transition forward to Scene 2 or Scene 3 the annotation for Scene 1 is cleared.
 - The annotation in Scene 2 is text positioned inside the visualization container meant to highlight the possibility of user engagement with the data. The user is invited to mouseover the data to see the trends for Cars, Trucks or SUVs independently. When the user clicks the button to navigate back to Scene 1 or forward to Scene 3 the annotation for Scene 2 is cleared.
 - The annotation in Scene 3 is text positioned inside the visualization container meant to ask the user to reflect on what has been discovered in this narrative visualization and to consider this information when making his next vehicle purchase. When the user clicks the button to navigate back to Scene 1 or to Scene 2 the annotation for Scene 3 is cleared.
 
